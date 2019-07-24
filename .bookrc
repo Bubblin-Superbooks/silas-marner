@@ -1,0 +1,22 @@
+{
+  "name": "Silas Marner",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/silas-marner/master/assets",
+  "book_id": 899,
+  "book_url": "https://bubblin.io/book/silas-marner-by-george-eliot"
+}
